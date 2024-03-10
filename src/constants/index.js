@@ -101,23 +101,23 @@ const technologies = [
     icon: rubyrails,
   },
   {
-    name: 'graphql',
+    name: 'Graphql',
     icon: graphql,
   },
   {
-    name: 'postgresql',
+    name: 'Postgresql',
     icon: postgresql,
   },
   {
-    name: 'git',
+    name: 'Git',
     icon: git,
   },
   {
-    name: 'figma',
+    name: 'Figma',
     icon: figma,
   },
   {
-    name: 'docker',
+    name: 'Docker',
     icon: docker,
   },
 ];

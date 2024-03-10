@@ -7,7 +7,7 @@ import logo from './logo/logo-black.png';
 import logotext from './logo/logo-text-black.png';
 
 import shaq from './personal/shaq.png';
-
+import joms from './personal/joms_2.png';
 import backend from './icons/backend.png';
 import ux from './icons/ux.png';
 import frontend from './icons/frontend.png';
@@ -58,6 +58,7 @@ export {
   logo,
   logotext,
   shaq,
+  joms,
   backend,
   ux,
   frontend,
