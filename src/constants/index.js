@@ -84,10 +84,10 @@ const technologies = [
     name: 'React JS',
     icon: reactjs,
   },
-  {
-    name: 'Redux Toolkit',
-    icon: redux,
-  },
+  // {
+  //   name: 'Redux Toolkit',
+  //   icon: redux,
+  // },
   {
     name: 'Tailwind CSS',
     icon: tailwind,
@@ -96,14 +96,14 @@ const technologies = [
     name: 'Node JS',
     icon: nodejs,
   },
-  {
-    name: 'Rails',
-    icon: rubyrails,
-  },
-  {
-    name: 'Graphql',
-    icon: graphql,
-  },
+  // {
+  //   name: 'Rails',
+  //   icon: rubyrails,
+  // },
+  // {
+  //   name: 'Graphql',
+  //   icon: graphql,
+  // },
   {
     name: 'Postgresql',
     icon: postgresql,
@@ -112,10 +112,10 @@ const technologies = [
     name: 'Git',
     icon: git,
   },
-  {
-    name: 'Figma',
-    icon: figma,
-  },
+  // {
+  //   name: 'Figma',
+  //   icon: figma,
+  // },
   {
     name: 'Docker',
     icon: docker,
@@ -124,32 +124,32 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Front-End Developer',
-    company_name: 'Cover Hunt',
+    title: 'System Developer',
+    company_name: 'Synermaxx',
     icon: coverhunt,
     iconBg: '#333333',
-    date: 'Aug 2021 - Feb 2022',
+    date: 'March 2018 - March 2019',
   },
   {
-    title: 'Mentor (Volunteer)',
-    company_name: 'Microverse',
+    title: 'System Developer II',
+    company_name: 'Synermaxx',
     icon: microverse,
     iconBg: '#333333',
-    date: 'Mar 2022 - May 2022',
+    date: 'March 2019 - March 2021',
   },
   {
-    title: 'Junior Software Engineer',
-    company_name: 'Kelhel',
+    title: 'Web Developer I',
+    company_name: 'Caspio Inc.',
     icon: kelhel,
     iconBg: '#333333',
-    date: 'May 2022 - Oct 2022',
+    date: 'March 2021 - March 2022',
   },
   {
-    title: 'Full Stack Developer',
-    company_name: 'Diversity Cyber Council',
+    title: 'Web Developer II',
+    company_name: 'Caspio Inc.',
     icon: dcc,
     iconBg: '#333333',
-    date: 'Sep 2022 - Present',
+    date: 'March 2022 - Present',
   },
 ];
 
